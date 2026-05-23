@@ -23,7 +23,7 @@ export default function Footer() {
             Get in touch
           </span>
           <h2 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight text-white mb-6">
-            Let's build something <span className="italic font-light">together.</span>
+            Let&apos;s build something <span className="italic font-light">together.</span>
           </h2>
           <p className="text-lg md:text-xl text-neutral-400 font-light max-w-xl">
             Always open to discussing new projects, creative ideas, or opportunities to be part of your visions.

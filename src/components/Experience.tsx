@@ -5,16 +5,22 @@ import { useRef } from "react";
 
 const EXPERIENCES = [
   {
-    company: "IGA Supermarket Carlton",
+    company: "Independent Grocers of Australia",
     location: "Melbourne",
     period: "2025–Present",
-    role: "Customer Service & Sales Associate",
+    role: "Retail and Customer Experience Assistant",
   },
   {
     company: "iAthletic",
     location: "Melbourne",
     period: "2024–2025",
     role: "Retail Assistant",
+  },
+  {
+    company: "Salvos Advertising & Marketing Pvt Ltd",
+    location: "New Delhi, India",
+    period: "2023",
+    role: "Marketing Executive",
   },
   {
     company: "Airtel",
@@ -27,12 +33,6 @@ const EXPERIENCES = [
     location: "India",
     period: "2023",
     role: "Digital Marketing Intern",
-  },
-  {
-    company: "Salvos Advertising & Marketing Pvt Ltd",
-    location: "New Delhi, India",
-    period: "2023",
-    role: "Marketing Executive",
   }
 ];
 

@@ -24,13 +24,13 @@ const EDUCATION = [
     period: "2022–2023",
     institution: "Amity University, Uttar Pradesh",
     degree: "Post Graduate Diploma in Counselling Psychology",
-    achievement: "Graduated with top academic standing in Psychology Honours in the entire cohort"
+    achievement: "Graduated with top academic standing in Counselling Psychology in the entire cohort"
   },
   {
     period: "2019–2022",
     institution: "Jesus and Mary College, University of Delhi",
-    degree: "Bachelor’s of Arts (Honours)",
-    achievement: "Overall Course Topper with CGPA of 9.04"
+    degree: "Bachelor’s of Arts (Honours) in Psychology",
+    achievement: "Graduated with top academic standing (overall course topper) in Psychology Honours with a CGPA of 9.04. Wrote a dissertation on “School Teachers' Well-Being during the Pandemic” during my undergrad."
   }
 ];
 
@@ -51,8 +51,8 @@ const CERTIFICATIONS = [
 
 const ACHIEVEMENTS = [
   {
-    title: "Highest Scorer",
-    description: "Topped Consumerism & Consumption and Management Competencies, highlighting strengths in consumer psychology and strategic analysis.",
+    title: "Dean's Scholarship",
+    description: "Awarded the 50% Academic Scholarship by the Dean of the Faculty of Business and Economics at Melbourne Business School in recognition of academic excellence and high achievement.",
     icon: TrendingUp,
   },
   {
