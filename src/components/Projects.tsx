@@ -23,9 +23,7 @@ const PROJECTS: Project[] = [
     title: "Marketing Internship",
     category: "Marketing Operations",
     description: "Supported the implementation of an Integrated Lead Management System (ILMS) at Airtel to streamline lead generation, customer tracking, and sales pipeline efficiency across operational teams.",
-    overview: `Supported the implementation of an Integrated Lead Management System (ILMS) at Airtel to streamline lead generation, customer tracking, and sales pipeline efficiency across operational teams.
-
-•  Conducted branch level operational analysis and field visits to evaluate workflow effectiveness, identify system inefficiencies, and deliver process improvement recommendations aligned with organisational objectives.
+    overview: `•  Conducted branch level operational analysis and field visits to evaluate workflow effectiveness, identify system inefficiencies, and deliver process improvement recommendations aligned with organisational objectives.
 
 •  Analysed operational and customer data to provide insight driven recommendations enhancing ILMS functionality, lead nurturing processes, and cross team coordination for improved business performance.
 
@@ -104,9 +102,7 @@ const PROJECTS: Project[] = [
     title: "Consumer Behaviour in the Dietary Supplements Market",
     category: "Consumer Research",
     description: "Conducted 20+ qualitative interviews and analysed survey responses from 151 participants to identify behavioural drivers influencing dietary supplement purchasing decisions among Australians aged 18–30.",
-    overview: `Conducted 20+ qualitative interviews and analysed survey responses from 151 participants to identify behavioural drivers influencing dietary supplement purchasing decisions among Australians aged 18–30.
-
-•  Analysed consumer attitudes surrounding digital trust, online reviews, influencer content, and health priorities to uncover key factors shaping purchasing confidence and long term brand trust.
+    overview: `•  Analysed consumer attitudes surrounding digital trust, online reviews, influencer content, and health priorities to uncover key factors shaping purchasing confidence and long term brand trust.
 
 •  Synthesised qualitative and quantitative research findings into strategic recommendations focused on ethical digital engagement, evidence based communication, and transparent brand positioning.
 
