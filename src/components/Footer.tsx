@@ -53,7 +53,7 @@ export default function Footer() {
 
           {/* Email */}
           <motion.a
-            href="mailto:neychelle.ouseph09@gmail.com"
+            href="mailto:neychelle.work@gmail.com"
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
@@ -65,7 +65,7 @@ export default function Footer() {
             </div>
             <div>
               <p className="text-sm text-neutral-500 uppercase tracking-widest mb-1">Email</p>
-              <p className="text-lg text-white font-medium group-hover:text-white transition-colors truncate">neychelle.ouseph09@gmail.com</p>
+              <p className="text-lg text-white font-medium group-hover:text-white transition-colors truncate">neychelle.work@gmail.com</p>
             </div>
           </motion.a>
 
